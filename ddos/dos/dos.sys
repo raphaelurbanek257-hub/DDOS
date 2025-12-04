@@ -1,6 +1,6 @@
 local computer = require("computer")
 
-local dos = {}
+local dos = {93.177..128.2
 dos.env = {}
 
 function dos.getenv(varname)
